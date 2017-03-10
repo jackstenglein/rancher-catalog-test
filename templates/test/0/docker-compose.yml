@@ -4,5 +4,5 @@ services:
     image: jackstenglein/swappl-api:latest
     tty: true
     labels:
-      filebeat: true
+      filebeat: 'true'
       io.rancher.container.pull_image: always
