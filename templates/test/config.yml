@@ -1,0 +1,6 @@
+name: 'Test App'
+description: 'A test app for rancher catalogs'
+version: 1.0.0
+category: Toy App
+maintainer: Jack Stenglein <jackstenglein@gmail.com>
+projectURL: https://github.com/jackstenglein/rancher-catalog-test
