@@ -1,3 +1,4 @@
+version: '0'
 catalog:
   name: Test App
   version: 1.0.0
