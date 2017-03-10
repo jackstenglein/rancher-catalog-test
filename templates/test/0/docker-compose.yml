@@ -1,6 +1,8 @@
-rest-api-test:
-  image: jackstenglein/swappl-api:latest
-  tty: true
-  labels:
-    filebeat: true
-    io.rancher.container.pull_image: always
+version: '0'
+services:
+  rest-api-test:
+    image: jackstenglein/swappl-api:latest
+    tty: true
+    labels:
+      filebeat: true
+      io.rancher.container.pull_image: always
