@@ -1,0 +1,11 @@
+catalog:
+  name: Test App
+  version: 1.0.0
+  description: 'Just testing some shit'
+  questions:
+    - variable: test_data
+      label: 'Test Data'
+      description: 'Just gathering some test data'
+      default: test
+      required: true
+      type: string
