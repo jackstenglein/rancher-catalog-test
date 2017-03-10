@@ -10,3 +10,7 @@ catalog:
       default: test
       required: true
       type: string
+services:
+  rest-api-test:
+    scale: 1
+    start_on_create: true
